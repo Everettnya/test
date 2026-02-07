@@ -1,1 +1,3 @@
-xterm &
+#!/bin/bash
+
+/usr/bin/xterm &
